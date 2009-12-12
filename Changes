@@ -1,5 +1,8 @@
 Revision history for Perl module Tie::Hash::MultiValue
 
+1.01 Sat Dec 12 12:50:36 PST 2009
+	- Re-released without OS X '._' files
+
 1.00 Fri Dec 11 15:43:50 PST 2009
 	- Compatible API change to support iterators
 	  -- New 'controller' methods can be called on the object
