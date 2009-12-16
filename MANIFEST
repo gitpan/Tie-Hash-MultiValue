@@ -11,6 +11,6 @@ t/003_ref.t
 t/004_unique.t
 t/005_custom.t
 t/007itersmode.t
-t/pod-coverage.t
-t/pod.t
+xt/pod-coverage.t
+xt/pod.t
 Todo
